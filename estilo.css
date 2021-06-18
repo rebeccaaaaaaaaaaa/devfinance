@@ -1,0 +1,15 @@
+    
+    .nav-link {
+        padding: 10px 20px !important;
+        transition: 0.3s ease;
+        font: normal normal bold 16px/20px Mulish;
+        letter-spacing: 0px;
+        color: var(--dark-color);
+        opacity: 1;
+        text-transform: uppercase;
+        }
+        
+        .nav-link:hover {
+            background-color: var(--ligth-blue);
+            color: var(--ligth-color);
+        }
